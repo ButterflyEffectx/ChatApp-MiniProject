@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatover-Android</string>
+    <string name="enter_user_id">กรอก User ID</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="create_group_chat">สร้างกลุ่มแชท</string>
+    <string name="error">ข้อผิดพลาด</string>
+    <string name="unknown_error">ข้อผิดพลาดไม่ทราบ</string>
+
+    <string name="new_chat">แชทใหม่</string>
+    <string name="group_chat">แชทกลุ่ม</string>
+
+    <string name="user_id">กรอกไอดีผู้ใช้</string>
+    <string name="user_name">กรอกชื่อผู้ใช้</string>
+    <string name="login">เข้าสู่ระบบ</string>
+</resources>

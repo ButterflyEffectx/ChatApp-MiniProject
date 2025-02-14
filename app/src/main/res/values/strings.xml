@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chatover-Android</string>
+    <string name="enter_user_id">Enter User ID</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_group_chat">Create Group Chat</string>
+    <string name="error">Error</string>
+    <string name="unknown_error">Unknown error</string>
+
+    <string name="new_chat">New Chat</string>
+    <string name="group_chat">Group Chat</string>
+
+    <string name="user_id">User ID</string>
+    <string name="user_name">User Name</string>
+    <string name="login">LOGIN</string>
+</resources>
